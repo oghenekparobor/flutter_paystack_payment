@@ -22,7 +22,7 @@ dependencies:
   # For Requests for Device
   platform_info: ^4.0.2
   device_info_plus: ^10.0.1
-  package_info_plus: ^6.0.0
+  package_info_plus: ^8.0.0
   webview_flutter: ^4.2.2
   universal_html: ^2.2.3
 
@@ -31,7 +31,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.1
+  flutter_lints: ^4.0.0
   matcher: ^0.12.11
   mockito: ^5.2.0
 
